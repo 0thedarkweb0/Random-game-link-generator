@@ -1,6 +1,6 @@
  function doFunction() {
      var button = document.getElementById("button").value;
-        var link = Math.floor(Math.random() * 130);
+        var link = Math.floor(Math.random() * 14);
 
      if (link == 0){
         link = "https://abcya.com"
