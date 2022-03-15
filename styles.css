@@ -17,7 +17,12 @@ h1 {
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
+button.relative {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid #73AD21;
+}
 button {
   background-color: white; 
   color: black; 
@@ -30,6 +35,6 @@ button:hover {
 }
 
 p{
- color: #FFD700
-
+ color: #FFD700;
+ text-align: center;
 }
