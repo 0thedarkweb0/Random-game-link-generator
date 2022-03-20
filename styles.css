@@ -44,8 +44,13 @@ p{
  
  
 }
-div.ad2{
+.ad2{
  position:absolute;
  top:60px;
  left:300px;
+}
+.words{
+    margin: auto;
+  width: 50%;
+  padding: 10px;
 }
