@@ -51,7 +51,9 @@ p{
  margin-left: -100%
 }
 #content{
-    margin: auto;
-  width: 50%;
-  padding: 10px;
+ position:relative;
+ float:left;
+ width: 100%;
+ margin-bottom: -200px;
+ padding-bottom: 200px;
 }
