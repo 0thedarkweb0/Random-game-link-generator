@@ -40,7 +40,7 @@ p{
  color: #FFD700;
  position:absolute;
  top:60px;
- left:250px;
+ 
  
  
 }
@@ -52,7 +52,7 @@ p{
 }
 #content{
  position:relative;
-left:100px;
+left:50%;
  float:left;
  width: 100%;
  margin-bottom: -200px;
