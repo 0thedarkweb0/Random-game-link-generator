@@ -1,5 +1,4 @@
 h1 {
-    text-align: center;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 
@@ -24,7 +23,6 @@ button {
   border: 2px solid #FFD700;
   position: absolute;
   top: 200px;
-  left: 233px;
   width: 200px;
   height: 200px
   
