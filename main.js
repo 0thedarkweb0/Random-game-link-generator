@@ -146,52 +146,52 @@
   if (link == 47){
        link == "https://sites.google.com/alpinesd.org/homework-help-for-school/home"
    }
-  if (link == 47){
+  if (link == 48){
        link == "https://www.hoodamath.com/"
    }
-  if (link == 47){
+  if (link == 49){
        link == "http://how-to-waste-your-time.com/"
    }
-  if (link == 47){
+  if (link == 50){
        link == "https://app.inferkit.com/demo"
    }
-  if (link == 47){
+  if (link == 51){
        link == "https://atmos.uw.edu/~dargan/EarthGamesUW/InfraredEscape/"
    }
-  if (link == 47){
+  if (link == 52){
        link == "https://beinternetawesome.withgoogle.com/en_us/interland"
    }
-  if (link == 47){
+  if (link == 53){
        link == "https://isitchristmas.com/"
    }
-  if (link == 47){
+  if (link == 54{
        link == "http://www.isithalloweenyet.com/"
    }
-  if (link == 47){
+  if (link == 55){
        link == "http://gel.msu.edu/isotopolis-game/"
    }
-  if (link == 47){
+  if (link == 56){
        link == "https://docs.google.com/document/u/0/d/1GnSoIssZL0dMHuo8JqEMNhuP2FjvrRz-i9PZ0WpSbew/edit"
    }
-  if (link == 47){
+  if (link == 57){
        link == "https://www.arealme.com/jitter-cps-test/en/"
    }
-  if (link == 47){
+  if (link == 58){
        link == "https://express.adobe.com/page/qGdPObwIKUxLG/"
    }
-  if (link == 47){
+  if (link == 59){
        link == "https://jspaint.app/"
    }
-  if (link == 47){
+  if (link == 60){
        link == "https://jummbus.bitbucket.io/"
    }
-  if (link == 47){
+  if (link == 61){
        link == "https://jump--ashwinbose.repl.co/play.html"
    }
-  if (link == 47){
+  if (link == 62){
        link == "http://kahoot.it"
    }
-  if (link == 47){
+  if (link == 63){
        link == "http://kaomoji.ru/en/"
    }
   if (link == 47){
