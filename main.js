@@ -1,6 +1,6 @@
  function doFunction() {
      var button = document.getElementById("button").value;
-        var link = Math.floor(Math.random() * 130);
+        var link = Math.floor(Math.random() * 133);
 
      if (link == 0){
         link = "https://abcya.com"
@@ -195,240 +195,240 @@
        link == "http://kaomoji.ru/en/"
    }
   if (link == 64){
-       link == ""
+       link == "http://www.kittenwar.com/"
    }
   if (link == 65){
-       link == ""
+       link == "http://koalastothemax.com/"
    }
   if (link == 66){
-       link == ""
+       link == "https://www.linerider.com/"
    }
   if (link == 67){
-       link == ""
+       link == "https://www.lego.com/en-us/kids/games"
    }
   if (link == 68){
-       link == ""
+       link == "https://littlealchemy.com/"
    }
   if (link == 69){
        link == "https://www.youtube.com/watch?v=Yw7LCJixG1E"
    }
   if (link == 70){
-       link == ""
+       link == "https://littlealchemy2.com/"
    }
   if (link == 71){
-       link == ""
+       link == "https://www.lumpty.com/amusements/Games/games.html"
    }
   if (link == 72){
-       link == ""
+       link == "https://www.mathsisfun.com/games/"
    }
   if (link == 73){
-       link == ""
+       link == "https://arcade.makecode.com/"
    }
   if (link == 74){
-       link == ""
+       link == "https://pramuwaskito.org/game/mario/mario.html"
    }
   if (link == 75){
-       link == ""
+       link == "https://www.mathplayground.com/"
    }
   if (link == 76){
-       link == ""
+       link == "http://moodlight.pro/?"
    }
   if (link == 77){
-       link == ""
+       link == "https://www.nationstates.net/"
    }
   if (link == 78){
-       link == ""
+       link == "http://neal.fun/"
    }
   if (link == 79){
-       link == ""
+       link == "https://www.nitrotype.com/"
    }
   if (link == 80){
-       link == ""
+       link == "http://personal.denison.edu/~lalla/314s19/midsemester/nightdrivingsimulator/index.html"
    }
   if (link == 81){
-       link == ""
+       link == "https://osrs-idle-clicker.netlify.app/"
    }
   if (link == 82){
-       link == ""
+       link == "https://jamesfriend.com.au/pce-js/mecc/oregon-trail.html"
    }
   if (link == 83){
-       link == ""
+       link == "http://particle-clicker.web.cern.ch/"
    }
   if (link == 84){
-       link == ""
+       link == "https://pbskids.org/"
    
   if (link == 85){
-       link == ""
+       link == "https://www.peta.org/features/games/"
    }
   if (link == 86){
-       link == ""
+       link == "https://www.pictureofhotdog.com/home-margot"
    }
   if (link == 87){
-       link == ""
+       link == "http://pixelsfighting.com/"
    }
    if (link == 88){
-       link == ""
+       link == "https://www.pixilart.com/draw"
    }
    if (link == 89){
-       link == ""
+       link == "https://pixlr.com/x/"
    }
    if (link == 90){
-       link == ""
+       link == "http://www.slightlyinteresting.com/plasmaglobe/plasma.asp"
    }
    if (link == 91){
-       link == ""
+       link == "https://www.poptropica.com/"
    }
    if (link == 92){
-       link == ""
+       link == "https://play.prodigygame.com/"
    }
    if (link == 93){
-       link == ""
+       link == "https://proxx.netlify.app/"
    }
    if (link == 94){
-       link == ""
+       link == "https://quickdraw.withgoogle.com/"
    }
    if (link == 95){
-       link == ""
+       link == "http://randomcolour.com/"
    }
    if (link == 96){
-       link == ""
+       link == "http://www.randomkittengenerator.com/"
    }
    if (link == 97){
-       link == ""
+       link == "https://replit.com/apps/kajam2021"
    }
    if (link == 98){
-       link == ""
+       link == "https://rogue-carrier--lerich.repl.co/"
    }
    if (link == 99){
-       link == ""
+       link == "https://www.safekidgames.com/"
    }
    if (link == 100){
-       link == ""
+       link == "http://castle.chirpingmustard.com/castle.html"
    }
    if (link == 101){
-       link == ""
+       link == "https://santatracker.google.com/"
    }
    if (link == 102){
-       link == ""
+       link == "https://sites.google.com/site/satznstuff/home"
    }
    if (link == 103){
-       link == ""
+       link == "https://htwins.net/scale2/"
    }
    if (link == 104){
-       link == ""
+       link == "https://scratch.mit.edu/"
    }
    if (link == 105){
-       link == ""
+       link == "https://www.sesamestreet.org/games"
    }
     if (link == 106){
-       link == ""
+       link == "https://scratch.mit.edu/studios/31000506"
    }
     if (link == 107){
-       link == ""
+       link == "https://playset.netlify.app/"
    }
     if (link == 108){
-       link == ""
+       link == "https://pramuwaskito.org/game/shootball/"
    }
     if (link == 109){
-       link == ""
+       link == "https://sh.9pfs.repl.co/"
    }
     if (link == 110){
-       link == ""
+       link == "https://turbowarp.org/601692509/fullscreen"
    }
     if (link == 111){
+       link == "https://sketch.io/sketchpad/"
+   }
+    if (link == 112){
+       link == "https://www.sporcle.com/"
+   }
+    if (link == 113){
+       link == "https://makecode.com/_2fJUCRRva8A2"
+   }
+    if (link == 114){
+       link == "https://www.mathsisfun.com/games/tetris.html"
+   }
+    if (link == 115){
+       link == "https://docs.google.com/document/d/1Rvn3ASm7-hUGg7wwiDP6pfzLIkeX380t8TN12XLtR7o/edit"
+   }
+    if (link == 116){
+       link == "https://the-price-of-adventure-game-jam--carlosalbertoalberto.repl.co/"
+   }
+    if (link == 117){
+       link == "https://thisissand.com/"
+   }
+    if (link == 118){
+       link == "https://www.childline.org.uk/toolbox/"
+   }
+    if (link == 119){
+       link == "https://games.corusent.com/treehouse/"
+   }
+    if (link == 120){
+       link == "https://turbowarp.org/"
+   }
+    if (link == 121){
+       link == "https://ig.ft.com/uber-game/"
+   }
+    if (link == 122){
+       link == "https://sites.google.com/site/thegamecompilation/home"
+   }
+    if (link == 123){
+       link == "https://www.onlinepianist.com/virtual-piano"
+   }
+    if (link == 124){
+       link == "http://weavesilk.com/"
+   }
+    if (link == 125){
+       link == "https://makecode.com/_Mk7dM4eKwLsW"
+   }
+    if (link == 126){
+       link == "https://www.whatsmystarbucksname.com/"
+   }
+    if (link == 127){
+       link == "https://r8.whiteboardfox.com/"
+   }
+    if (link == 128){
+       link == "https://www.nytimes.com/games/wordle/index.html"
+   }
+    if (link == 129){
+       link == "https://youtube.com/"
+   }
+    if (link == 130){
+       link == "https://games.corusent.com/ytv/"
+   }
+    if (link == 131){
+       link == "https://15puzzle.netlify.app/"
+   }
+    if (link == 132){
+       link == "https://www.mathsisfun.com/games/2048.html"
+   }
+    if (link == 133){
        link == ""
    }
-    if (link == 105){
+    if (link == 134){
        link == ""
    }
-    if (link == 105){
+    if (link == 135){
+       link == ""
+   
+    if (link == 136){
        link == ""
    }
-    if (link == 105){
+    if (link == 137){
        link == ""
    }
-    if (link == 105){
+    if (link == 138){
        link == ""
    }
-    if (link == 105){
+    if (link == 139){
        link == ""
    }
-    if (link == 105){
+    if (link == 140){
        link == ""
    }
-    if (link == 105){
+    if (link == 141){
        link == ""
    }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
-       link == ""
-   }
-    if (link == 105){
+    if (link == 142){
        link == ""
    }
    
