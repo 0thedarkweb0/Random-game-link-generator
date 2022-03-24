@@ -401,37 +401,7 @@
     if (link == 132){
        link == "https://www.mathsisfun.com/games/2048.html"
    }
-    if (link == 133){
-       link == ""
-   }
-    if (link == 134){
-       link == ""
-   }
-    if (link == 135){
-       link == ""
-   
-    if (link == 136){
-       link == ""
-   }
-    if (link == 137){
-       link == ""
-   }
-    if (link == 138){
-       link == ""
-   }
-    if (link == 139){
-       link == ""
-   }
-    if (link == 140){
-       link == ""
-   }
-    if (link == 141){
-       link == ""
-   }
-    if (link == 142){
-       link == ""
-   }
-   
+    
   
   
      document.getElementById("result").innerHTML = link;
