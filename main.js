@@ -194,78 +194,244 @@
   if (link == 63){
        link == "http://kaomoji.ru/en/"
    }
-  if (link == 47){
+  if (link == 64){
        link == ""
    }
-  if (link == 47){
+  if (link == 65){
        link == ""
    }
-  if (link == 47){
+  if (link == 66){
        link == ""
    }
-  if (link == 47){
+  if (link == 67){
        link == ""
    }
-  if (link == 47){
+  if (link == 68){
        link == ""
    }
-  if (link == 47){
+  if (link == 69){
+       link == "https://www.youtube.com/watch?v=Yw7LCJixG1E"
+   }
+  if (link == 70){
        link == ""
    }
-  if (link == 47){
+  if (link == 71){
        link == ""
    }
-  if (link == 47){
+  if (link == 72){
        link == ""
    }
-  if (link == 47){
+  if (link == 73){
        link == ""
    }
-  if (link == 47){
+  if (link == 74){
        link == ""
    }
-  if (link == 47){
+  if (link == 75){
        link == ""
    }
-  if (link == 47){
+  if (link == 76){
        link == ""
    }
-  if (link == 47){
+  if (link == 77){
        link == ""
    }
-  if (link == 47){
+  if (link == 78){
        link == ""
    }
-  if (link == 47){
+  if (link == 79){
        link == ""
    }
-  if (link == 47){
+  if (link == 80){
        link == ""
    }
-  if (link == 47){
+  if (link == 81){
        link == ""
    }
-  if (link == 47){
+  if (link == 82){
        link == ""
    }
-  if (link == 47){
+  if (link == 83){
        link == ""
    }
-  if (link == 47){
+  if (link == 84){
+       link == ""
+   
+  if (link == 85){
        link == ""
    }
-  if (link == 47){
+  if (link == 86){
        link == ""
    }
-  if (link == 47){
+  if (link == 87){
        link == ""
    }
-  if (link == 47){
+   if (link == 88){
        link == ""
    }
-  if (link == 47){
+   if (link == 89){
        link == ""
    }
+   if (link == 90){
+       link == ""
+   }
+   if (link == 91){
+       link == ""
+   }
+   if (link == 92){
+       link == ""
+   }
+   if (link == 93){
+       link == ""
+   }
+   if (link == 94){
+       link == ""
+   }
+   if (link == 95){
+       link == ""
+   }
+   if (link == 96){
+       link == ""
+   }
+   if (link == 97){
+       link == ""
+   }
+   if (link == 98){
+       link == ""
+   }
+   if (link == 99){
+       link == ""
+   }
+   if (link == 100){
+       link == ""
+   }
+   if (link == 101){
+       link == ""
+   }
+   if (link == 102){
+       link == ""
+   }
+   if (link == 103){
+       link == ""
+   }
+   if (link == 104){
+       link == ""
+   }
+   if (link == 105){
+       link == ""
+   }
+    if (link == 106){
+       link == ""
+   }
+    if (link == 107){
+       link == ""
+   }
+    if (link == 108){
+       link == ""
+   }
+    if (link == 109){
+       link == ""
+   }
+    if (link == 110){
+       link == ""
+   }
+    if (link == 111){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+    if (link == 105){
+       link == ""
+   }
+   
   
   
      document.getElementById("result").innerHTML = link;
