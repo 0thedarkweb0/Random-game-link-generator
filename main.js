@@ -1,5 +1,5 @@
  function buttonPress() {
-     var button = document.getElementById(";button";).value;
+     var button = document.getElementById("button").value;
         var link = Math.floor(Math.random() * 133);
 
      if (link == 0){
@@ -404,5 +404,5 @@
     
   
   
-     document.getElementById(";result";).innerHTML = link;
+     document.getElementById("result").innerHTML = link;
  };
