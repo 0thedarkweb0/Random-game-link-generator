@@ -1,4 +1,4 @@
- function doFunction() {
+ function buttonPress() {
      var button = document.getElementById("button").value;
         var link = Math.floor(Math.random() * 133);
 
