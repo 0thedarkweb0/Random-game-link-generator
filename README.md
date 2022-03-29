@@ -1,2 +1,3 @@
-# Personal
-My project to create randow game links everytime
+# Random-game-link-generator
+My project to create random Game link from Secret fun
+https://bit.ly/unblockedlinks

@@ -1,7 +1,6 @@
 function buttonPress() {
     var button = document.getElementById("button").value;
        var link = Math.floor(Math.random() * 133);
-
     if (link == 0){
        link = "https://abcya.com"
     };
