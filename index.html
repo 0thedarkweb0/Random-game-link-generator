@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html>
+<html en="en">
     <head>
         <meta charset="utf-8">
 
@@ -8,17 +8,21 @@
 
         <!-- Load external CSS styles -->
         <link rel="stylesheet" href="styles.css">
+        <!-- Load external JavaScript -->
+    <script src="main.js"></script>
 
     </head>
 
     <body>
+  <div id="content">
 
-        <h1>Random Game Link</h1>
+    <h1>Random Game Link</h1>
+       
+    <button onmousedown="buttonPress();" id="button">Click for link</button>
+        <p >Random link here <span id="result"> </span></p> 
+        </div>
+      
         
-        <!-- Load external JavaScript -->
-        <script src="main.js"></script>
-        <button onclick="doFunction();" id="button">Click for link</button>
-        <p >Random link here <span id="result"> </span></p>  
         
     </body>
    
